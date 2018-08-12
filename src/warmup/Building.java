@@ -7,7 +7,7 @@ private String type;
 private int floorCount;
 
 public Building(){
-	System.out.println("no args");
+	System.out.println("Eliza");
 }
 
 
