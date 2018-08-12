@@ -7,7 +7,7 @@ private String type;
 private int floorCount;
 
 public Building(){
-	System.out.println("Eliza");
+	System.out.println("Alex");
 }
 
 
