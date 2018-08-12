@@ -48,7 +48,7 @@ public int getFloorCount() {
 }
 public void setFloorCount(int floorCount) {
 	this.floorCount = floorCount;
-	System.out.println("how many floor");
+	
 }
 
 
